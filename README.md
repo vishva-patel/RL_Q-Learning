@@ -23,9 +23,13 @@ Define a deterministic environment, where P (s 0 , r|s, a) = {0, 1}. It has to h
 more then one action.
 
 Environment ideas:
+
 • Tic-Tac-Toe
+
 • Grid world
+
 • Student’s Life
+
 • Any your ideas are welcome
 
 
@@ -41,8 +45,13 @@ Part 3 [40 points] - Implement tabular method
 
 Apply a tabular method to solve environments, that were built in Part 1 and Part 2.
 Tabular methods options:
+
 • Dynamic programming
+
 • Q-learning
+
 • SARSA
-1• TD(0)
+
+• TD(0)
+
 • Monte Carlo
