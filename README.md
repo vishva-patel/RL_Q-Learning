@@ -11,13 +11,13 @@ Project 1 - Building Reinforcement Learning Environment
 Due Date: Sunday, September 29, 11:59pm
 
 
-1 Project Overview
+## 1 Project Overview
 
 The goal of the project is to explore and get an experience of building reinforcement learning environ-
 ments, following the OpenAI Gym standards. The project consists of building deterministic and stochastic
 environments that are based on Markov decision process, and applying tabular method to solve them.
 
-Part 1 [30 points] - Build a deterministic environment
+## Part 1 [30 points] - Build a deterministic environment
 
 Define a deterministic environment, where P (s 0 , r|s, a) = {0, 1}. It has to have more than one state and
 more then one action.
@@ -34,14 +34,14 @@ Environment ideas:
 
 
 
-Part 2 [30 points] - Build a stochastic environment
+## Part 2 [30 points] - Build a stochastic environment
 
 Define a stochastic environment, where
 Part 1 can be used.
 
 
 
-Part 3 [40 points] - Implement tabular method
+## Part 3 [40 points] - Implement tabular method
 
 Apply a tabular method to solve environments, that were built in Part 1 and Part 2.
 Tabular methods options:
