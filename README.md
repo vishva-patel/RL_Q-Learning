@@ -1,4 +1,5 @@
-# RL Project 1 - Building Deterministic and Stochasic environments and applying Tabular method, Q-Learning to solve them.
+# Project 1
+## Building Deterministic and Stochasic environments and applying Tabular method, Q-Learning to solve them
 
 CSE4/510: Introduction to Reinforcement Learning
 
